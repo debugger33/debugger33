@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debugger33
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Full Stack Dev on java
+- 👀 I’m interested in Java, JavaScript, Html, CSS, Python
+- 🌱 I’m currently learning Full Stack Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
